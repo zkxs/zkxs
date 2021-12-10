@@ -2,8 +2,7 @@
 - I'm currently learning [Rust](https://www.rust-lang.org/) through side projects.
 - My bio is a lie. I do in fact have time to program recreationally if given sufficient motivation. Usually that motivation is making tools or mods for whatever video game I'm currently playing.
 - I unironically believe that FizzBuzz is a good programming interview question.
-- To get in contact with me you can email me at [zkxs00@gmail.com](mailto:zkxs00@gmail.com).
-  - For bonus points, alter that email address by adding `+realboy` immediately before the @ sign. Doing this will help distinguish you from email bots.
+- To get in contact with me you can email me at [zkxs00@gmail.com](mailto:zkxs00@gmail.com). For bonus points, alter that email address by adding `+realboy` immediately before the @ sign. Doing this will help distinguish you from email bots.
 
 ### About My Work
 - I work as a software developer for [@walmartlabs](https://github.com/walmartlabs) doing primarily backend Java.
