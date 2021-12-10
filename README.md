@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+
+- Currently learning [Rust](https://www.rust-lang.org/) through side projects.
+- My Bio is a lie. I do in fact have time to program recreationally... if given sufficient motivation. Usually that motivation is making tools or mods for whatever video game I'm currently playing.
+- I unironically believe that FizzBuzz is a good interview question.
 
 <!--
 **zkxs/zkxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
