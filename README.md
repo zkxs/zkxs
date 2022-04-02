@@ -5,8 +5,7 @@
 - To get in contact with me you can email me at [zkxs00@gmail.com](mailto:zkxs00@gmail.com). For bonus points, alter that email address by adding `+realboy` immediately before the @ sign. Doing this will help distinguish you from email bots.
 
 ### About My Work
-- I work as a software developer for [@walmartlabs](https://github.com/walmartlabs) doing primarily backend Java.
-- My team provides an internal API that provides associate information. Most notably our API is used by the Me@Walmart app for a bunch of things.
+- I work as a software developer for [@oracle](https://github.com/oracle).
 
 <!--
 **zkxs/zkxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
