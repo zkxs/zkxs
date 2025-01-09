@@ -1,8 +1,10 @@
 ### About Me
-- I'm currently learning [Rust](https://www.rust-lang.org/) through side projects.
-- My bio is a lie. I do in fact have time to program recreationally if given sufficient motivation. Usually that motivation is making tools or mods for whatever video game I'm currently playing.
-- Apparently I do some Unity game modding now? How'd that happen?
-- I unironically believe that FizzBuzz is a good programming interview question.
+- I'm currently learning [Rust](https://www.rust-lang.org/) through side projects. I've learned a lot, but there's still more to go.
+- Most of my programming time is spent professionally, but sometimes if I have the right inspiration I'll do some recreational programming as well. I've dabbled in:
+  - Command-line utilities
+  - Unity game modding
+  - Reverse engineering
+  - Discord bots
 - To get in contact with me you can email me at [zkxs00@gmail.com](mailto:zkxs00@gmail.com). For bonus points, alter that email address by adding `+realboy` immediately before the @ sign. Doing this will help distinguish you from email bots.
 
 ### About My Work
